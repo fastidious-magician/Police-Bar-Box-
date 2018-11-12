@@ -26,10 +26,7 @@
          
   }
   
-  void loop() {
-           
-      
-      // START            
+  void loop() {                           
       
       cleanBar(); 
       
